@@ -1,0 +1,2 @@
+choco upgrade gitextensions slack vscode visualstudio2019community
+choco upgrade notepadplusplus -x86
