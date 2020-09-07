@@ -5,8 +5,9 @@ Any .NET developer who needs to setup tools quickly
 
 ## How to install Chocolatey
 
-Install Chocolatey as described in https://chocolatey.org/install
-Run powershell script ChocoInstallSoftware.ps1
+1. Install Chocolatey as described in https://chocolatey.org/install
+2. Adjust ChocoInstallSoftware.ps1 according to your needs
+3. Run powershell script ChocoInstallSoftware.ps1
 
 ## Visual Studio Community
 
@@ -19,5 +20,5 @@ Run powershell script ChocoInstallSoftware.ps1
 
 ## Resharper
 Is a bit of a pain to install for now because of how the installer works (ref https://chocolatey.org/packages/resharper-ultimate-all).
-Added the default arguments for the ultimate all install. 
+
 
